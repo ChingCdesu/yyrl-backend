@@ -2,8 +2,8 @@ module.exports = {
   keys: 'random-string',
   mysql: {
     client: {
-      host: '172.17.0.3',
-      port: '3306',
+      host: 'sh-cynosdbmysql-grp-ogztswdw.sql.tencentcdb.com',
+      port: '29237',
       user: 'yyrlbeta',
       password: 'kdi3jpAa*',
       database: 'yyrlbeta'
